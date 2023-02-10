@@ -12,8 +12,7 @@ if(x > 0)
 
 else
   x = x * -1;
-cout<<x;
-
+  cout<<x;
 
   return 0;
 }
