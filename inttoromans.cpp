@@ -15,6 +15,7 @@ int main() {
     cout<<"Invalid";
   }
       else {
+        //3286
         if (interger >= 1000) {
           piece = (interger / 1000);
 
@@ -23,6 +24,7 @@ int main() {
         }
         interger %= 1000;
       }
+      //286
             if (interger >= 100) {
               piece = (interger / 100);
 
@@ -48,6 +50,7 @@ int main() {
   }
   interger % 100;
   }
+  //86
   if (interger >= 10) {
     piece = (interger / 10);
 
